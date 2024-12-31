@@ -5,8 +5,6 @@
 
 <h3 align="center">Passionate About IT Technology</h3>
 
----
-
 ### 📖 About Me:
 
 - 🎓 I'm a Computer Engineering student specializing in **Big Data and Cloud Computing** at ENSET Mohammedia.
@@ -14,7 +12,6 @@
 - 🔍 Open to collaborating on projects and expanding my horizons in the tech world.
 - 🌱 Currently focusing on **DevOps, Cloud Computing, and Software Development**.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +41,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23161616.svg?logo=github&logoColor=white)](https://github.com/ELMOUADDIBE)
 
 ---
-
 
 ### 🚀 Let's Build Something Great Together!
 
